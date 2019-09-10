@@ -1,0 +1,11 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+#sd-user-table-container {
+    margin: 30px 0;
+}
+
+.sd-user--filters {
+    margin: 16px 0;
+}
